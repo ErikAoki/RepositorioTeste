@@ -16,6 +16,7 @@ public class App {
      */
     public static void main(String[] args) {
         System.out.println("github e netbeans");
+        int x=10;
     }
     
 }
